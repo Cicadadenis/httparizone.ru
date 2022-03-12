@@ -53,7 +53,7 @@ width = 1920
 height = 1080
 output = "image"
 token = "J2R5PZN-34Q4J42-JPTRJD4-Y9F6BHT"
-bot = Bot(token="5129599162:AAHmqlzOnWbMifFJ2USAW3OXqhlt2hGlE9o", parse_mode=types.ParseMode.HTML)
+bot = Bot(token="5277009385:AAFw-LUouS4qHJ7sS_iDI3sKYKGKLyvesYU", parse_mode=types.ParseMode.HTML)
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
